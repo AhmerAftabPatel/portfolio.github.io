@@ -1,0 +1,25 @@
+.education__row {
+  color: white;
+}
+
+.education__rowHeader {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.education__rowHeader > h1 {
+  font-size: 30px;
+  font-weight: 300;
+}
+
+.education__row > a {
+  font-size: 25px;
+  color: #1a8aeb;
+  text-decoration: none;
+}
+
+.education__row > a:hover {
+  color: #1a8aeb98;
+  text-decoration: underline;
+}

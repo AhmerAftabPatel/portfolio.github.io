@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+}
+
+html,
+body {
+  width: 100vw;
+  height: 100vh;
+  font-family: "Acme", sans-serif;
+  
+  /* font-family: 'Montserrat', sans-serif; */
+}
+
+.myCardLayout {
+  margin-bottom: 30px;
+  box-shadow: 0 2px 1px white;
+  padding: 10px;
+}

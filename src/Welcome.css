@@ -1,0 +1,45 @@
+.welcome {
+  color: white;
+}
+
+.welcome__text {
+  margin: 40px 0;
+  font-size: 37px;
+  text-align: center;
+}
+
+.welcome__shortDescription {
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+  font-size: 20px;
+  color: black;
+}
+.welcomeqoute__shortDescription {
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+  font-size: 30px;
+  color: rgb(129, 21, 21);
+  margin: 30px;
+}
+
+.welcome__resume > div {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin: 50px;
+  background-color: black;
+}
+
+.welcome__resume > div > a {
+  background-color: rgba(211, 211, 211, 0.467);
+  padding: 20px;
+  font-size: 30px;
+  text-decoration: none;
+  color: white;
+  box-shadow: 1px 2px 4px white;
+  border-radius: 10px;
+}
+
+.welcome__resume > div > a:hover {
+  background-color: rgba(211, 211, 211, 0.297);
+}
