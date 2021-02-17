@@ -16,12 +16,6 @@ function Welcome() {
       </div>
       <div className="welcome__shortDescription">
         <Animated animationIn="bounceInUp" isVisible={true}>
-          {/* <p>
-            Web Developer, Mobile and Game Development enthusiast.
-            <br /> I love mathematics and solving complex algorithms.
-            <br />I have worked over various technologies over the years, and
-            possess good problem solving skills.
-          </p> */}
           <h2>
             A young coder, who's passion is ignited when he makes a perfect
             code.

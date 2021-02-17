@@ -53,10 +53,6 @@ function Skills() {
       name: "Bootstrap4",
       image: "bootstrap.jfif",
     },
-    // {
-    //   name: "Zend",
-    //   image: "zend.png",
-    // },
   ];
 
   const databases = [
