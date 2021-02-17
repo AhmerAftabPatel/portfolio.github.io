@@ -39,7 +39,7 @@ function Welcome() {
       <div className="welcome__resume">
         <Animated animationIn="slideInRight" isVisible={true}>
           <a
-            href="/my-portfolio-website/AHMER AFTAB PATEL-converted.pdf"
+            href="AHMER AFTAB PATEL-converted.pdf"
             target="_blank"
           >
             RESUME
