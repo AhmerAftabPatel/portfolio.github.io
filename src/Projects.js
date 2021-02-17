@@ -25,8 +25,8 @@ function Projects() {
 
             <div className="projects__cardTechnologies">
               <div>
-                <img src="my-portfolio-website/technologies/js.png" />
-                <img src="my-portfolio-website/technologies/react.png" />
+                <img src="technologies/js.png" />
+                <img src="technologies/react.png" />
                 {/* <img src="my-portfolio-website/technologies/spotify.png" /> */}
               </div>
             </div>
@@ -37,7 +37,7 @@ function Projects() {
               // href="https://github.com/RishabBaisakh/musify-mern"
               target="_blank"
             >
-              <img src="my-portfolio-website/projects/atmshow.png" />
+              <img src="projects/atmshow.png" />
             </a>
           </div>
         </div>
@@ -60,9 +60,9 @@ function Projects() {
 
             <div className="projects__cardTechnologies">
               <div>
-                <img src="my-portfolio-website/technologies/js.png" />
-                <img src="my-portfolio-website/technologies/react.png" />
-                <img src="my-portfolio-website/technologies/node.jfif" />
+                <img src="technologies/js.png" />
+                <img src="technologies/react.png" />
+                <img src="technologies/node.jfif" />
               </div>
             </div>
           </div>
@@ -71,7 +71,7 @@ function Projects() {
               href="https://github.com/RishabBaisakh/whatsapp-clone"
               target="_blank"
             >
-              <img src="my-portfolio-website/projects/ggcommerce.png" />
+              <img src="projects/ggcommerce.png" />
             </a>
           </div>
         </div>

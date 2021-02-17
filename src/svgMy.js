@@ -4,7 +4,7 @@ class FeelingProud extends Component {
   render() {
     const theme = this.props.theme;
     return (
-      <div >
+      <div>
         <div className="kz-photo">
           <svg
             className="kz-photo-line"

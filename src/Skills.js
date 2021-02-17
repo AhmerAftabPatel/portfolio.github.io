@@ -90,7 +90,7 @@ function Skills() {
               <div className="skills__cardTechnology">
                 <h2>{language.name}</h2>
                 <img
-                  src={`my-portfolio-website/technologies/${language.image}`}
+                  src={`technologies/${language.image}`}
                 />
               </div>
             </Animated>
@@ -111,7 +111,7 @@ function Skills() {
               <div className="skills__cardTechnology">
                 <h2>{framework.name}</h2>
                 <img
-                  src={`my-portfolio-website/technologies/${framework.image}`}
+                  src={`technologies/${framework.image}`}
                 />
               </div>
             </Animated>
@@ -132,7 +132,7 @@ function Skills() {
               <div className="skills__cardTechnology">
                 <h2>{database.name}</h2>
                 <img
-                  src={`my-portfolio-website/technologies/${database.image}`}
+                  src={`technologies/${database.image}`}
                 />
               </div>
             </Animated>
