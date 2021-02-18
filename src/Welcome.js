@@ -31,15 +31,16 @@ function Welcome() {
       </div>
       <div className="welcomeqoute__shortDescription">
         <p>"A user interface is like a joke. If you have to explain it, it’s not
-        that good." Major skill set includes JavaScript, and one of its
+        that good."
+        <br/> <br/><span style = {{color : "black"}}>Major skill set includes JavaScript, and one of its
         libraries, ReactJS. I believe in absolute fun and personal development
-        while working.
+        while working.</span>
         </p>
       </div>
       <div className="welcome__resume">
         <Animated animationIn="slideInRight" isVisible={true}>
           <a
-            href="AHMER AFTAB PATEL-converted.pdf"
+            href="Ahmer Aftab Patel.pdf"
             target="_blank"
           >
             RESUME
